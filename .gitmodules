@@ -1,0 +1,6 @@
+[submodule "samp-plugin-sdk"]
+	path = samp-plugin-sdk
+	url = https://github.com/maddinat0r/samp-plugin-sdk
+[submodule "PicoSHA2"]
+	path = PicoSHA2
+	url = https://github.com/okdshin/PicoSHA2
